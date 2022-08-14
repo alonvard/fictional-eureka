@@ -10,6 +10,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
 
+# will spyder be updated
 
 def calc_prob(X):
     y_xn=-1*-X[1,0]/X[2,0]-X[0,0]/X[2,0]
